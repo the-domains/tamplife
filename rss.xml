@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TampLife]]></title>
         <description><![CDATA[TampLife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tamplife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 14:31:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 14:31:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tamplife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3.amazonaws.com/store-assets-buckets/products/1659/zoom/1.jpg?1414645141">]]></description>
-            <link>undefined7adc53dd-1a6f-47b2-8bde-ee7d2d888f34/index.html</link>
+            <link>https://thegrid.ai/tamplife/bad750c5-11da-4f52-9072-585fb0653170/index.html</link>
+            <guid isPermaLink="false">bad750c5-11da-4f52-9072-585fb0653170</guid>
+            <pubDate>Sun, 13 Dec 2015 14:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3.amazonaws.com/store-assets-buckets/products/1659/zoom/1.jpg?1414645141">]]></description>
+            <link>https://thegrid.ai/tamplife/7adc53dd-1a6f-47b2-8bde-ee7d2d888f34/index.html</link>
             <guid isPermaLink="false">7adc53dd-1a6f-47b2-8bde-ee7d2d888f34</guid>
             <pubDate>Sun, 13 Dec 2015 14:30:56 GMT</pubDate>
         </item>
